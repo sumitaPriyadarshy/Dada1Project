@@ -12,3 +12,7 @@ services:
   packages:
   - name: Dada1Project
     version: "1.0"
+- serviceName: project.dada1.integrations:test2
+  packages:
+  - name: Dada1Project
+    version: "1.0"
